@@ -1,0 +1,9 @@
+DETECTION OF SWISS CURRENCY DENOMINATION 
+
+conterfeit: Whether a banknote is counterfeit (1) or genuine (0)
+Length: Length of bill (mm)
+Left: Width of left edge (mm)
+Right: Width of right edge (mm)
+Bottom: Bottom margin width (mm)
+Top: Top margin width (mm)
+Diagonal: Length of diagonal (mm)
